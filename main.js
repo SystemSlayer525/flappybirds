@@ -1,4 +1,4 @@
-//Creat our 'main' state that will contain the game
+//Creat our 'main' state that will contain the game 2
 var mainState = {
 	preload: function() {
 		//This function will be executed at the beginning
